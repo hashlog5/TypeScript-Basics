@@ -1,0 +1,1 @@
+This repo is from the [TypeScript Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI) by [@iamshaunjp](https://github.com/iamshaunjp/typescript-tutorial/tree/lesson-2)
